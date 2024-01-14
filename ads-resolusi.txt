@@ -2,3 +2,5 @@
 - belajar css dasar
 -  belajar text editor
 - belajar git dan github
+- belajar javascrip
+- membutat web portofolio
