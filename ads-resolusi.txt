@@ -1,0 +1,4 @@
+- belajar html dasar
+- belajar css dasar
+-  belajar text editor
+- belajar git dan github
